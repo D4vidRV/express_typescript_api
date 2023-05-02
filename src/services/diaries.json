@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2022-05-28",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Do ut est tempor in sit."
+  },
+  {
+    "id": 2,
+    "date": "2022-10-15",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "😍"
+  },
+  {
+    "id": 3,
+    "date": "2023-01-26",
+    "weather": "windy",
+    "visibility": "good",
+    "comment": "Excepteur ipsum aute cupidatat cupidatat."
+  },
+  {
+    "id": 4,
+    "date": "2022-12-05",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "Enim quis in veniam minim."
+  },
+  {
+    "id": 5,
+    "date": "2022-06-17",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Cupidatat qui sit veniam aliqua esse veniam et."
+  }
+]

@@ -1,0 +1,17 @@
+# TypeScript
+*.tsbuildinfo
+*.ts
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build output
+build/
+
+# Visual Studio Code
+.vscode/
